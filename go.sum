@@ -1,0 +1,6 @@
+github.com/efarrer/iothrottler v0.0.1 h1:N5uXoCpk8T1nfl8z7l4YIJUI/2/mL5pQNsOkeMuVnH8=
+github.com/efarrer/iothrottler v0.0.1/go.mod h1:zGWF5N0NKSCskcPFytDAFwI121DdU/NfW4XOjpTR+ys=
+github.com/jessevdk/go-flags v1.3.0 h1:QmKsgik/Z5fJ11ZtlcA8F+XW9dNybBNFQ1rngF3MmdU=
+github.com/jessevdk/go-flags v1.3.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
+github.com/jessevdk/go-flags v1.4.0 h1:4IU2WS7AumrZ/40jfhf4QVDMsQwqA7VEHozFRrGARJA=
+github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
